@@ -3,7 +3,7 @@ a quiz game developed for exam practice
 
 txt-s should look like this:
 This is a test question?
-a) answer a
+a) answer a\n
 b) answer b
 c) answer c
 d) answer d
