@@ -11,5 +11,5 @@ the program asks 3 random questions by default, and the user has to answer them
 Example pictures:
 
 ![example 1](https://i.postimg.cc/63GJWCpL/pic1.png)
-![example 2](https://postimg.cc/rd5PSCDB/pic3.png)
-![example 3](https://postimg.cc/1nH7dmcM/pic2.png)
+![example 2](https://postimg.cc/rd5PSCDB/pic1.png)
+![example 3](https://postimg.cc/1nH7dmcM/pic1.png)
