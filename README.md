@@ -2,11 +2,11 @@
 a quiz game developed for exam practice
 
 txt-s should look like this:
-question
-answer a
-answer b
-answer c
-answer d
+This is a test question?
+a) answer a
+b) answer b
+c) answer c
+d) answer d
 correct answer
 
 
