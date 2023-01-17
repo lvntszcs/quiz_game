@@ -10,6 +10,6 @@ the program asks 3 random questions by default, and the user has to answer them
 
 Example pictures:
 
-![example 1](https://postimg.cc/CBY6JBDz)
-![example 2](https://postimg.cc/rd5PSCDB)
-![example 3](https://postimg.cc/1nH7dmcM)
+![example 1](https://i.postimg.cc/63GJWCpL/pic1.png)
+![example 2](https://postimg.cc/rd5PSCDB/pic3.png)
+![example 3](https://postimg.cc/1nH7dmcM/pic2.png)
