@@ -1,14 +1,7 @@
 # quiz_game
 a quiz game developed for exam practice
 
-txt-s should look like this:
-This is a test question?
-a) answer a\n
-b) answer b
-c) answer c
-d) answer d
-correct answer
-
+txt-s should look like the test txt
 
 the program asks 10 random questions, and the user has to answer them
  - no repeating questions
